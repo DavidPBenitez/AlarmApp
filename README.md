@@ -30,7 +30,7 @@ Services
 ## Hur kan du starta/prova appen?
 1. **Klona projektet:**
 ```bash
-   git clone 
+   git clone https://github.com/DavidPBenitez/AlarmApp.git
    cd AlarmApp
 ```
 

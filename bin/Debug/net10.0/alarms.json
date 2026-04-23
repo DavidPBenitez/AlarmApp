@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "b3ba0f22-d904-4e0f-b9df-8656332d4582",
+    "Time": "2026-04-23T10:00:00+02:00",
+    "Message": "\u251C\u00E4ta mat",
+    "IsActive": true,
+    "IsRepeating": false,
+    "RepeatDays": []
+  },
+  {
+    "Id": "7ca4be76-9eb0-4e8a-aa0d-145820371c94",
+    "Time": "2026-04-23T21:06:00+02:00",
+    "Message": "hej",
+    "IsActive": false,
+    "IsRepeating": false,
+    "RepeatDays": []
+  }
+]

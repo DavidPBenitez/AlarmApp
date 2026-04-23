@@ -1,0 +1,15 @@
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.AssemblyInfoInputs.cache
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.AssemblyInfo.cs
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.sourcelink.json
+C:\Users\david\AlarmApp\bin\Debug\net10.0\AlarmApp.exe
+C:\Users\david\AlarmApp\bin\Debug\net10.0\AlarmApp.deps.json
+C:\Users\david\AlarmApp\bin\Debug\net10.0\AlarmApp.runtimeconfig.json
+C:\Users\david\AlarmApp\bin\Debug\net10.0\AlarmApp.dll
+C:\Users\david\AlarmApp\bin\Debug\net10.0\AlarmApp.pdb
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.dll
+C:\Users\david\AlarmApp\obj\Debug\net10.0\refint\AlarmApp.dll
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.pdb
+C:\Users\david\AlarmApp\obj\Debug\net10.0\AlarmApp.genruntimeconfig.cache
+C:\Users\david\AlarmApp\obj\Debug\net10.0\ref\AlarmApp.dll
